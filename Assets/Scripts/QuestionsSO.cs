@@ -9,4 +9,8 @@ public class QuestionsSO : ScriptableObject
     public string Question { get { return question; }}
     public string[] Answers { get { return answers; }}
     public int CorrectAnswerIndex {  get { return correctAnswerIndex; }}
+    public string GetAnswer(int index)
+    {
+        return answers[index];
+    }
 }
