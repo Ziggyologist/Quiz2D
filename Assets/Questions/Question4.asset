@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: From which album is the song "Life on Mars"?
   answers:
-  - The Rise and Fall of Ziggy Stardust and the Spiders from Mars
+  - Heroes
   - The Man Who Sold the World
   - Hunky Dory
   - Aladdin Sane
