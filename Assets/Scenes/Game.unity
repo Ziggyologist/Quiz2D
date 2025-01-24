@@ -2315,7 +2315,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f858f5c38296d9d4eb90632a3b08aba0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  finalScoreText: {fileID: 703318518}
+  finalScoreText: {fileID: 1853958621}
 --- !u!1 &1993092121 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5634638038436661713, guid: 7dbbf1527039a3940b3d7f5314b73262, type: 3}
@@ -2357,8 +2357,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5314792, y: 0.2138148}
   m_AnchorMax: {x: 0.5314792, y: 0.2138148}
-  m_AnchoredPosition: {x: -18, y: -7}
-  m_SizeDelta: {x: 191.3568, y: 26.1669}
+  m_AnchoredPosition: {x: -18, y: 26.44461}
+  m_SizeDelta: {x: 191.3568, y: 42.968}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2069350801
 MonoBehaviour:
@@ -2436,7 +2436,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -4659264650518790821, guid: e5f0864c7f70d6a47b8da3a816839108, type: 3}
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 1
   m_FillCenter: 1

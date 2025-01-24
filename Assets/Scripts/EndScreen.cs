@@ -13,7 +13,8 @@ public class EndScreen : MonoBehaviour
 
     public void ShowFinalScore()
     {
-        finalScoreText.text = "Congratulations! \nYou're score is: " + scoreKeeper.CalculateScore() + "%";
+        int score = scoreKeeper.CalculateScore();
+        finalScoreText.text = "Congratulations! \nYour score is: " + score + "%";
     }
 
 }
